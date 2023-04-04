@@ -1,4 +1,4 @@
-# ENSF409
+# ENSF380
 
 This is an instructional project for the course ENSF380/ENSF409 at the Schulich School of Engineering at the University of Calgary.
 
